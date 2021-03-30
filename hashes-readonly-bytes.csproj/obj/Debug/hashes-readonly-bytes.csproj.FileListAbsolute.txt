@@ -1,0 +1,10 @@
+D:\c#\hashes-readonly-bytes.csproj\bin\Debug\readonly-bytes.exe.config
+D:\c#\hashes-readonly-bytes.csproj\bin\Debug\readonly-bytes.exe
+D:\c#\hashes-readonly-bytes.csproj\bin\Debug\readonly-bytes.pdb
+D:\c#\hashes-readonly-bytes.csproj\bin\Debug\nunit.framework.dll
+D:\c#\hashes-readonly-bytes.csproj\bin\Debug\nunitlite.dll
+D:\c#\hashes-readonly-bytes.csproj\obj\Debug\hashes-readonly-bytes.csprojAssemblyReference.cache
+D:\c#\hashes-readonly-bytes.csproj\obj\Debug\hashes-readonly-bytes.csproj.CoreCompileInputs.cache
+D:\c#\hashes-readonly-bytes.csproj\obj\Debug\hashes-readonly-bytes.csproj.CopyComplete
+D:\c#\hashes-readonly-bytes.csproj\obj\Debug\readonly-bytes.exe
+D:\c#\hashes-readonly-bytes.csproj\obj\Debug\readonly-bytes.pdb

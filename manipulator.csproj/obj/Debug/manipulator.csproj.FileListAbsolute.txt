@@ -1,0 +1,11 @@
+D:\c#\manipulator.csproj\bin\Debug\Manipulator.exe.config
+D:\c#\manipulator.csproj\bin\Debug\Manipulator.exe
+D:\c#\manipulator.csproj\bin\Debug\Manipulator.pdb
+D:\c#\manipulator.csproj\bin\Debug\nunit.framework.dll
+D:\c#\manipulator.csproj\obj\Debug\manipulator.csprojAssemblyReference.cache
+D:\c#\manipulator.csproj\obj\Debug\Manipulation.Properties.Resources.resources
+D:\c#\manipulator.csproj\obj\Debug\manipulator.csproj.GenerateResource.cache
+D:\c#\manipulator.csproj\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+D:\c#\manipulator.csproj\obj\Debug\manipulator.csproj.CopyComplete
+D:\c#\manipulator.csproj\obj\Debug\Manipulator.exe
+D:\c#\manipulator.csproj\obj\Debug\Manipulator.pdb

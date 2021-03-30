@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c4e8c930_002Ddfed_002D4d9d_002Dbfd6_002Debd650394fef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ExpSmoothingTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BA12A5CD-FF42-4D24-AB0A-2458B8A70FAC::.NETFramework,Version=v4.7.2::yield.ExpSmoothingTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BA12A5CD-FF42-4D24-AB0A-2458B8A70FAC::.NETFramework,Version=v4.7.2::yield.MovingAverageTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BA12A5CD-FF42-4D24-AB0A-2458B8A70FAC::.NETFramework,Version=v4.7.2::yield.MovingMaxTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

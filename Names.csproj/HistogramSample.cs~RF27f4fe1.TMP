@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+namespace Names
+{
+    internal static class HistogramSample
+    {
+        // Пример подготовки данных для построения графиков:
+        public static HistogramData GetHistogramBirthsByYear(NameData[] names)
+        {
+            /*
+            Подготовка данных для построения гистограммы 
+            — количества людей в выборке в зависимости от года их рождения.
+            */
+
+            var minYear = 1990;
+            var maxYear = 1996;
+            var years = new string[maxYear - minYear + 1];
+            for (var y = 0; y < years.Length; y++)
+                years[y] = (y + minYear).ToString();
+            var birthsCounts = new Dictionary<string, double>();
+            var size = 0;
+            var ans = 0.0;
+            var countMostPopular = new string[size];
+            for (var i = minYear; i <= maxYear; i++)
+            {
+                var theMostPopularName = new Dictionary<string, double>();
+                foreach (var name in names)
+                {
+                    if (i == name.BirthDate.Year && theMostPopularName.ContainsKey(name.Name))
+                    {
+                        theMostPopularName[name.Name]++;
+                    }
+                    else if (i == name.BirthDate.Year)
+                    {
+                        theMostPopularName[name.Name] = 1;
+                    }
+                }
+                double mx = 0;
+                string s = "";
+                foreach(var item in theMostPopularName)
+                {
+                    if (item.Value > mx) {
+                        s = item.Key;
+                        mx = item.Value;
+                    }
+                }
+                if (birthsCounts.ContainsKey(s))
+                {
+            }
+            var countMaxName = new double[size];
+            var it = 0;
+            foreach(var item in birthsCounts)
+            {
+                countMostPopular[it] = item.Key;
+                countMaxName[it] = item.Value;
+                it++;
+            }
+            return new HistogramData("Рождаемость по годам", countMostPopular, countMaxName);
+        }
+    }
+}

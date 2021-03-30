@@ -1,0 +1,9 @@
+D:\c#\Clones.csproj\bin\Debug\Clones.exe.config
+D:\c#\Clones.csproj\bin\Debug\Clones.exe
+D:\c#\Clones.csproj\bin\Debug\Clones.pdb
+D:\c#\Clones.csproj\bin\Debug\nunit.framework.dll
+D:\c#\Clones.csproj\obj\Debug\Clones.csprojAssemblyReference.cache
+D:\c#\Clones.csproj\obj\Debug\Clones.csproj.CoreCompileInputs.cache
+D:\c#\Clones.csproj\obj\Debug\Clones.csproj.CopyComplete
+D:\c#\Clones.csproj\obj\Debug\Clones.exe
+D:\c#\Clones.csproj\obj\Debug\Clones.pdb

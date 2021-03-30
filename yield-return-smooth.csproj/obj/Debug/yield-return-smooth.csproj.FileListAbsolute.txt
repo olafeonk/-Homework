@@ -1,0 +1,10 @@
+D:\c#\yield-return-smooth.csproj\bin\Debug\yield.exe.config
+D:\c#\yield-return-smooth.csproj\bin\Debug\yield.exe
+D:\c#\yield-return-smooth.csproj\bin\Debug\yield.pdb
+D:\c#\yield-return-smooth.csproj\bin\Debug\nunit.framework.dll
+D:\c#\yield-return-smooth.csproj\bin\Debug\ZedGraph.dll
+D:\c#\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csprojAssemblyReference.cache
+D:\c#\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csproj.CoreCompileInputs.cache
+D:\c#\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csproj.CopyComplete
+D:\c#\yield-return-smooth.csproj\obj\Debug\yield.exe
+D:\c#\yield-return-smooth.csproj\obj\Debug\yield.pdb

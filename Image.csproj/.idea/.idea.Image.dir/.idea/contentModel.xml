@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aplas\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aplas\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="D:\c#\Image.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="eurobot.bmp" t="Include" />
+      <e p="GrayscaleTask.cs" t="Include" />
+      <e p="HoughTransformTask.cs" t="Include" />
+      <e p="Image.csproj" t="IncludeRecursive" />
+      <e p="Line.cs" t="Include" />
+      <e p="MedianFilterTask.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Pixel.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include" />
+      <e p="SobelFilterTask.cs" t="Include" />
+      <e p="ThresholdFilterTask.cs" t="Include" />
+    </e>
+  </component>
+</project>

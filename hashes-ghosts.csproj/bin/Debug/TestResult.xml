@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="ghost.exe" fullname="D:/c#/hashes-ghosts.csproj/bin/Debug/ghost.exe" testcasecount="5" result="Failed" start-time="2021-03-07 14:14:58Z" end-time="2021-03-07 14:14:59Z" duration="0.134737" total="5" passed="3" failed="2" inconclusive="0" skipped="0" asserts="23" random-seed="179836127">
+  <command-line><![CDATA[D:\c#\hashes-ghosts.csproj\bin\Debug\ghost.exe]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="ghost.exe" fullname="D:/c#/hashes-ghosts.csproj/bin/Debug/ghost.exe" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2021-03-07 14:14:58Z" end-time="2021-03-07 14:14:59Z" duration="0.134737" total="5" passed="3" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="23">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\c#\hashes-ghosts.csproj\bin\Debug" machine-name="LAPTOP-L2DU3OQ4" user="aplas" user-domain="LAPTOP-L2DU3OQ4" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="D:\c#\hashes-ghosts.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="20208" />
+      <property name="_APPDOMAIN" value="ghost.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1007" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2021-03-07 14:14:58Z" end-time="2021-03-07 14:14:59Z" duration="0.124172" total="5" passed="3" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="23">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1000" name="GhostsTest" fullname="hashes.GhostsTest" classname="hashes.GhostsTest" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2021-03-07 14:14:58Z" end-time="2021-03-07 14:14:59Z" duration="0.119317" total="5" passed="3" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="23">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1003" name="GhostCatBreaksHashSet" fullname="hashes.GhostsTest.GhostCatBreaksHashSet" methodname="GhostCatBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1581581908" result="Passed" start-time="2021-03-07 14:14:58Z" end-time="2021-03-07 14:14:58Z" duration="0.017681" asserts="5" />
+        <test-case id="1004" name="GhostDocumentBreaksHashSet" fullname="hashes.GhostsTest.GhostDocumentBreaksHashSet" methodname="GhostDocumentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1314357380" result="Failed" start-time="2021-03-07 14:14:58Z" end-time="2021-03-07 14:14:59Z" duration="0.072172" asserts="4">
+          <failure>
+            <message><![CDATA[  ghostItem should disappear from HashSet after DoMagic()
+  Expected: False
+  But was:  True
+]]></message>
+            <stack-trace><![CDATA[в hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask]() в D:\c#\hashes-ghosts.csproj\GhostsTest.cs:строка 51
+в hashes.GhostsTest.GhostDocumentBreaksHashSet() в D:\c#\hashes-ghosts.csproj\GhostsTest.cs:строка 31
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  ghostItem should disappear from HashSet after DoMagic()
+  Expected: False
+  But was:  True
+]]></message>
+              <stack-trace><![CDATA[в hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask]() в D:\c#\hashes-ghosts.csproj\GhostsTest.cs:строка 51
+в hashes.GhostsTest.GhostDocumentBreaksHashSet() в D:\c#\hashes-ghosts.csproj\GhostsTest.cs:строка 31
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1005" name="GhostRobotBreaksHashSet" fullname="hashes.GhostsTest.GhostRobotBreaksHashSet" methodname="GhostRobotBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="70514500" result="Failed" start-time="2021-03-07 14:14:59Z" end-time="2021-03-07 14:14:59Z" duration="0.002503" asserts="4">
+          <failure>
+            <message><![CDATA[  ghostItem should disappear from HashSet after DoMagic()
+  Expected: False
+  But was:  True
+]]></message>
+            <stack-trace><![CDATA[в hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask]() в D:\c#\hashes-ghosts.csproj\GhostsTest.cs:строка 51
+в hashes.GhostsTest.GhostRobotBreaksHashSet() в D:\c#\hashes-ghosts.csproj\GhostsTest.cs:строка 37
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  ghostItem should disappear from HashSet after DoMagic()
+  Expected: False
+  But was:  True
+]]></message>
+              <stack-trace><![CDATA[в hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask]() в D:\c#\hashes-ghosts.csproj\GhostsTest.cs:строка 51
+в hashes.GhostsTest.GhostRobotBreaksHashSet() в D:\c#\hashes-ghosts.csproj\GhostsTest.cs:строка 37
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1002" name="GhostSegmentBreaksHashSet" fullname="hashes.GhostsTest.GhostSegmentBreaksHashSet" methodname="GhostSegmentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1198672231" result="Passed" start-time="2021-03-07 14:14:59Z" end-time="2021-03-07 14:14:59Z" duration="0.000796" asserts="5" />
+        <test-case id="1001" name="GhostVectorBreaksHashSet" fullname="hashes.GhostsTest.GhostVectorBreaksHashSet" methodname="GhostVectorBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1123916828" result="Passed" start-time="2021-03-07 14:14:59Z" end-time="2021-03-07 14:14:59Z" duration="0.000816" asserts="5" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

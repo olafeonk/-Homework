@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=409a1f46_002D278f_002D4436_002Dbeda_002Dc62c4c1dcea0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="HelloWorld" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4952B70C-9974-4E05-AC3B-A86596A0C537::.NETFramework,Version=v4.7.2::func.brainfuck.BrainfuckBasicCommandsTests.HelloWorld&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4952B70C-9974-4E05-AC3B-A86596A0C537::.NETFramework,Version=v4.7.2::func.brainfuck.BrainfuckLoopCommandsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4952B70C-9974-4E05-AC3B-A86596A0C537::.NETFramework,Version=v4.7.2::func.brainfuck.VirtualMachineTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4952B70C-9974-4E05-AC3B-A86596A0C537::.NETFramework,Version=v4.7.2::func.brainfuck.BrainfuckBasicCommandsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d474cdd1_002Db383_002D4a52_002D8d04_002D4d6ab71ba558/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0c3a5ae_002D1794_002D47bc_002D8948_002Da7d2db9045e9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

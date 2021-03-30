@@ -1,0 +1,13 @@
+D:\c#\func-rocket.csproj\bin\Debug\images\rocket.png
+D:\c#\func-rocket.csproj\bin\Debug\images\target.png
+D:\c#\func-rocket.csproj\bin\Debug\func-rocket.exe.config
+D:\c#\func-rocket.csproj\bin\Debug\func-rocket.exe
+D:\c#\func-rocket.csproj\bin\Debug\func-rocket.pdb
+D:\c#\func-rocket.csproj\bin\Debug\nunit.framework.dll
+D:\c#\func-rocket.csproj\obj\Debug\func-rocket.csprojAssemblyReference.cache
+D:\c#\func-rocket.csproj\obj\Debug\func_rocket.Properties.Resources.resources
+D:\c#\func-rocket.csproj\obj\Debug\func-rocket.csproj.GenerateResource.cache
+D:\c#\func-rocket.csproj\obj\Debug\func-rocket.csproj.CoreCompileInputs.cache
+D:\c#\func-rocket.csproj\obj\Debug\func-rocket.csproj.CopyComplete
+D:\c#\func-rocket.csproj\obj\Debug\func-rocket.exe
+D:\c#\func-rocket.csproj\obj\Debug\func-rocket.pdb

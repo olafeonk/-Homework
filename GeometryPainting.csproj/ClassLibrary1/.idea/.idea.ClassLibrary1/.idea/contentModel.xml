@@ -1,0 +1,21 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aplas\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aplas\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ClassLibrary1.1775708396.00" t="ExcludeRecursive" />
+    <e p="C:\Users\aplas\RiderProjects\ClassLibrary1" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Class1.cs" t="Include" />
+      <e p="ClassLibrary1.csproj" t="IncludeRecursive" />
+      <e p="ClassLibrary1.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="ClassLibrary1.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

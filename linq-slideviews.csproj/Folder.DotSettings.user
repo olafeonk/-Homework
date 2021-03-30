@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e377b7a_002Df701_002D423d_002Db2a6_002D7fe579d7d769/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ParseEmptySlides" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A72FD514-84D3-4AC9-AF95-4CCE0C1D64B7::.NETFramework,Version=v4.7.2::linq_slideviews.ParsingTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A72FD514-84D3-4AC9-AF95-4CCE0C1D64B7::.NETFramework,Version=v4.7.2::linq_slideviews.StatisticsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76247c19_002D2ab9_002D4a59_002Dbc39_002D0194d4e8f17f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MedianOfEmptyList_Fails" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A72FD514-84D3-4AC9-AF95-4CCE0C1D64B7::.NETFramework,Version=v4.7.2::linq_slideviews.ExtensionsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A72FD514-84D3-4AC9-AF95-4CCE0C1D64B7::.NETFramework,Version=v4.7.2::linq_slideviews.ParsingTests.ParseEmptySlides&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A72FD514-84D3-4AC9-AF95-4CCE0C1D64B7::.NETFramework,Version=v4.7.2::linq_slideviews.ParsingTests.ParseEmptyVisits&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A72FD514-84D3-4AC9-AF95-4CCE0C1D64B7::.NETFramework,Version=v4.7.2::linq_slideviews.ParsingTests.SkipIncorrectSlides&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A72FD514-84D3-4AC9-AF95-4CCE0C1D64B7::.NETFramework,Version=v4.7.2::linq_slideviews.ParsingTests.ParseSeveralSlides&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

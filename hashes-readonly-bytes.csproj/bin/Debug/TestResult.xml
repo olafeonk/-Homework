@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="readonly-bytes.exe" fullname="D:/c#/hashes-readonly-bytes.csproj/bin/Debug/readonly-bytes.exe" testcasecount="14" result="Failed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.176556" total="14" passed="13" failed="1" inconclusive="0" skipped="0" asserts="100030" random-seed="887221073">
+  <command-line><![CDATA[D:\c#\hashes-readonly-bytes.csproj\bin\Debug\readonly-bytes.exe]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1016" name="readonly-bytes.exe" fullname="D:/c#/hashes-readonly-bytes.csproj/bin/Debug/readonly-bytes.exe" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.176556" total="14" passed="13" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="100030">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\c#\hashes-readonly-bytes.csproj\bin\Debug" machine-name="LAPTOP-L2DU3OQ4" user="aplas" user-domain="LAPTOP-L2DU3OQ4" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="D:\c#\hashes-readonly-bytes.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="11536" />
+      <property name="_APPDOMAIN" value="readonly-bytes.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1017" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.165707" total="14" passed="13" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="100030">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1000" name="ReadonlyBytesTests" fullname="hashes.ReadonlyBytesTests" classname="hashes.ReadonlyBytesTests" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.160716" total="14" passed="13" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="100030">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1001" name="Creation" fullname="hashes.ReadonlyBytesTests.Creation" methodname="Creation" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="2127248289" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.003827" asserts="0" />
+        <test-case id="1002" name="CreationException" fullname="hashes.ReadonlyBytesTests.CreationException" methodname="CreationException" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1091612587" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.014630" asserts="1" />
+        <test-case id="1006" name="Enumeration" fullname="hashes.ReadonlyBytesTests.Enumeration" methodname="Enumeration" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1416541711" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.007863" asserts="1" />
+        <test-case id="1007" name="EqualOnSameBytes" fullname="hashes.ReadonlyBytesTests.EqualOnSameBytes" methodname="EqualOnSameBytes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="403857909" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.003310" asserts="4" />
+        <test-case id="1013" name="HashCode" fullname="hashes.ReadonlyBytesTests.HashCode" methodname="HashCode" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="835701803" result="Failed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.016213" asserts="3">
+          <failure>
+            <message><![CDATA[  Expected: not equal to 0
+  But was:  0
+]]></message>
+            <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.HashCode() в D:\c#\hashes-readonly-bytes.csproj\ReadonlyBytesTests.cs:строка 102
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected: not equal to 0
+  But was:  0
+]]></message>
+              <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.HashCode() в D:\c#\hashes-readonly-bytes.csproj\ReadonlyBytesTests.cs:строка 102
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1004" name="Indexer" fullname="hashes.ReadonlyBytesTests.Indexer" methodname="Indexer" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1164340813" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.000461" asserts="3" />
+        <test-case id="1005" name="IndexOutOfRangeException" fullname="hashes.ReadonlyBytesTests.IndexOutOfRangeException" methodname="IndexOutOfRangeException" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="2091270227" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.000577" asserts="1" />
+        <test-case id="1003" name="Length" fullname="hashes.ReadonlyBytesTests.Length" methodname="Length" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1092969529" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.000380" asserts="1" />
+        <test-case id="1015" name="MassiveCallToGetHashCodeOfLargeBytesArray" fullname="hashes.ReadonlyBytesTests.MassiveCallToGetHashCodeOfLargeBytesArray" methodname="MassiveCallToGetHashCodeOfLargeBytesArray" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1218403656" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.046785" asserts="100000" />
+        <test-case id="1008" name="NotEqualIfBytesDiffer" fullname="hashes.ReadonlyBytesTests.NotEqualIfBytesDiffer" methodname="NotEqualIfBytesDiffer" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="476369946" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.003077" asserts="4" />
+        <test-suite type="ParameterizedMethod" id="1012" name="NotEqualWithOtherTypes" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.014199" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+          <test-case id="1009" name="NotEqualWithOtherTypes(System.Byte[])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(System.Byte[])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1274929068" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.000547" asserts="3" />
+          <test-case id="1010" name="NotEqualWithOtherTypes(System.Byte[])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(System.Byte[])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="774611588" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.000094" asserts="3" />
+          <test-case id="1011" name="NotEqualWithOtherTypes(System.Byte[])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(System.Byte[])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1703589195" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.000056" asserts="3" />
+        </test-suite>
+        <test-case id="1014" name="ToStringIsOverridden" fullname="hashes.ReadonlyBytesTests.ToStringIsOverridden" methodname="ToStringIsOverridden" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="61979123" result="Passed" start-time="2021-03-07 13:21:40Z" end-time="2021-03-07 13:21:40Z" duration="0.001791" asserts="3" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

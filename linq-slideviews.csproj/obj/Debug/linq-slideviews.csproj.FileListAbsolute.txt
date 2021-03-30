@@ -1,0 +1,10 @@
+D:\c#\linq-slideviews.csproj\bin\Debug\slides.txt
+D:\c#\linq-slideviews.csproj\bin\Debug\visits.txt
+D:\c#\linq-slideviews.csproj\bin\Debug\linq-slideviews.exe
+D:\c#\linq-slideviews.csproj\bin\Debug\linq-slideviews.pdb
+D:\c#\linq-slideviews.csproj\bin\Debug\nunit.framework.dll
+D:\c#\linq-slideviews.csproj\obj\Debug\linq-slideviews.csprojAssemblyReference.cache
+D:\c#\linq-slideviews.csproj\obj\Debug\linq-slideviews.csproj.CoreCompileInputs.cache
+D:\c#\linq-slideviews.csproj\obj\Debug\linq-slideviews.csproj.CopyComplete
+D:\c#\linq-slideviews.csproj\obj\Debug\linq-slideviews.exe
+D:\c#\linq-slideviews.csproj\obj\Debug\linq-slideviews.pdb

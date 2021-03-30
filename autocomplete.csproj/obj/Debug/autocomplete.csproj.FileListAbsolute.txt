@@ -1,0 +1,15 @@
+D:\c#\autocomplete.csproj\bin\Debug\dic\adjectives.txt
+D:\c#\autocomplete.csproj\bin\Debug\dic\nouns.txt
+D:\c#\autocomplete.csproj\bin\Debug\dic\verbs.txt
+D:\c#\autocomplete.csproj\bin\Debug\Autocomplete.exe.config
+D:\c#\autocomplete.csproj\bin\Debug\Autocomplete.exe
+D:\c#\autocomplete.csproj\bin\Debug\Autocomplete.pdb
+D:\c#\autocomplete.csproj\bin\Debug\nunit.framework.dll
+D:\c#\autocomplete.csproj\obj\Debug\autocomplete.csprojAssemblyReference.cache
+D:\c#\autocomplete.csproj\obj\Debug\Autocomplete.AutocompleteForm.resources
+D:\c#\autocomplete.csproj\obj\Debug\Autocomplete.Properties.Resources.resources
+D:\c#\autocomplete.csproj\obj\Debug\autocomplete.csproj.GenerateResource.cache
+D:\c#\autocomplete.csproj\obj\Debug\autocomplete.csproj.CoreCompileInputs.cache
+D:\c#\autocomplete.csproj\obj\Debug\autocomplete.csproj.CopyComplete
+D:\c#\autocomplete.csproj\obj\Debug\Autocomplete.exe
+D:\c#\autocomplete.csproj\obj\Debug\Autocomplete.pdb

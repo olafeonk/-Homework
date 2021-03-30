@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=46300163_002D1BDE_002D4535_002DB5A1_002D60A599CE0A25_002Ff_003AFieldsParserTask_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5ff68292_002Dd000_002D49d4_002Db8cb_002Df98f40098d73/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FieldParserTaskTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.1::TableParser.FieldParserTaskTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.1::TableParser.QuotedFieldTaskTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

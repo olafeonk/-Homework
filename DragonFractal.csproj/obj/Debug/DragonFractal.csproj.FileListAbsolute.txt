@@ -1,0 +1,6 @@
+D:\c#\DragonFractal.csproj\bin\Debug\DragonFractal.exe.config
+D:\c#\DragonFractal.csproj\bin\Debug\DragonFractal.exe
+D:\c#\DragonFractal.csproj\bin\Debug\DragonFractal.pdb
+D:\c#\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.CoreCompileInputs.cache
+D:\c#\DragonFractal.csproj\obj\Debug\DragonFractal.exe
+D:\c#\DragonFractal.csproj\obj\Debug\DragonFractal.pdb

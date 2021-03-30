@@ -1,0 +1,11 @@
+D:\c#\LimitedSizeStack.csproj\bin\Debug\TodoApplication.exe.config
+D:\c#\LimitedSizeStack.csproj\bin\Debug\TodoApplication.exe
+D:\c#\LimitedSizeStack.csproj\bin\Debug\TodoApplication.pdb
+D:\c#\LimitedSizeStack.csproj\bin\Debug\nunit.framework.dll
+D:\c#\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csprojAssemblyReference.cache
+D:\c#\LimitedSizeStack.csproj\obj\Debug\TodoApplication.Properties.Resources.resources
+D:\c#\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.GenerateResource.cache
+D:\c#\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.CoreCompileInputs.cache
+D:\c#\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.CopyComplete
+D:\c#\LimitedSizeStack.csproj\obj\Debug\TodoApplication.exe
+D:\c#\LimitedSizeStack.csproj\obj\Debug\TodoApplication.pdb

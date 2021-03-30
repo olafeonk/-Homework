@@ -1,0 +1,10 @@
+D:\c#\hashes-ghosts.csproj\bin\Debug\ghost.exe.config
+D:\c#\hashes-ghosts.csproj\bin\Debug\ghost.exe
+D:\c#\hashes-ghosts.csproj\bin\Debug\ghost.pdb
+D:\c#\hashes-ghosts.csproj\bin\Debug\nunit.framework.dll
+D:\c#\hashes-ghosts.csproj\bin\Debug\nunitlite.dll
+D:\c#\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csprojAssemblyReference.cache
+D:\c#\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csproj.CoreCompileInputs.cache
+D:\c#\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csproj.CopyComplete
+D:\c#\hashes-ghosts.csproj\obj\Debug\ghost.exe
+D:\c#\hashes-ghosts.csproj\obj\Debug\ghost.pdb
